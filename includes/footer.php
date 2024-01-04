@@ -1,51 +1,28 @@
 <section class="footer_sec">   
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-2">
-                <div class="footer_logo">
-                    <a href="/"><img src="assets/images/logo.png" alt=""></a>
-                </div>
-            </div>
-            <div class="col-md-10">
-                <div class="footer_menu">
-                    <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="our-portfolio/">Our Portfolio</a></li>
-                        <li><a href="customer-testimonials/">Customer Testimonials</a></li>
-                        <button type="button" class="btn-dark">Book A Free Consultancy</button>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="row mt-5 align-items-end">
+    <div class="container">        
+        <div class="row mt-5">
             <div class="col-md-6">
                 <div class="footer_inner">
-                    <h2>SUBSCRIBE TO OUR NEWSLETTER</h2>
-                    <p>us erat. Fusce auctor rutrum eros, fringilla Fusce auctor rutrum eros, fringilla interdum odint</p>
-                    <form action="/leads/" method="POST">
-                        <input type="email" name="name" placeholder="Email Address">
-                        <input type="submit">
-                    </form>
+                    <h2>About Us!</h2>
+                    <p>YTmatic was founded in the year 2022. We have successfully created thousands of Youtube Channels and thousand of people are working with us at the moment and earning a passive Income. We have a strong portfolio of branding Youtube channel and posting video content daily.</p>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="footer_links">
-                    <h4>sOCIAL mEDIA</h4>
+                    <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">FACEBOOK</a></li>
-                        <li><a href="#">INSTAGRAM</a></li>
-                        <li><a href="#">TWITTER</a></li>
-                        <li><a href="#">LINKEDIN</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Refund policy</a></li>
+                        <li><a href="#">Terms and Services</a></li>                       
                     </ul>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="footer_links">
                     <h4>CONTACT INFORMATION</h4>
-                    <ul>
-                        <li><a href="tel:+123 456 789 0">+123 456 789 0</a></li>
-                        <li><a href="mailto::Sample@example.com">Sample@example.com</a></li>
-                        <li><a href="#">4097 Whitetail Lane <br>Irving,TX 75060</a></li>
+                    <ul>                       
+                        <li><a href="mailto::Support@ytmatic.com">Support@ytmatic.com</a></li>
+                        <li><a href="mailto::Sales@ytmatic.com">Sales@ytmatic.com</a></li>
                     </ul>
                 </div>
             </div>
@@ -53,11 +30,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="bottom_footer">
-                    <p>Copyright @ 2023. All Rights Reserved.</p>
-                    <span>
-                      <a href="#">PRIVACY</a>
-                      <a href="#">POLICY</a>
-                    </span>
+                    <p>© 2022 YTmatic All Rights Reserved.</p>                    
                 </div>
             </div>
         </div>
@@ -112,9 +85,9 @@
 
 <script>
 
-$('.testimonial_sldier').slick({
-  dots: false,
-  arrows:true,
+$('.success_slider').slick({
+  dots: true,
+  arrows:false,
   infinite: true,
   speed: 1500,
   slidesToShow: 1,
@@ -149,90 +122,82 @@ $('.testimonial_sldier').slick({
   ]
 });
 
-$('.youtube_slider').slick({
+$('.rev_slider').slick({
+  centerMode: true,
   dots: false,
-  arrows:true,
-  infinite: true,
-  speed: 1500,
-  slidesToShow: 3,
+  slidesToShow: 1,
   slidesToScroll: 1,
   responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
     {
       breakpoint: 768,
       settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
       }
     },
     {
       breakpoint: 480,
       settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
+        arrows: false,
+        centerMode: true,
+        centerPadding: '40px',
+        slidesToShow: 1
       }
     }
-    // You can unslick at a given breakpoint now by adding:
-    // settings: "unslick"
-    // instead of a settings object
   ]
 });
 
 
-$('.client_sldier').slick({
-  dots: false,
-  arrows:true,
+var rev = $('.rev_slider_new');
+rev.on('init', function(event, slick, currentSlide) {
+  var
+    cur = $(slick.$slides[slick.currentSlide]),
+    next = cur.next(),
+    prev = cur.prev();
+  prev.addClass('slick-sprev');
+  next.addClass('slick-snext');
+  cur.removeClass('slick-snext').removeClass('slick-sprev');
+  slick.$prev = prev;
+  slick.$next = next;
+}).on('beforeChange', function(event, slick, currentSlide, nextSlide) {
+  //console.log('beforeChange');
+  var
+    cur = $(slick.$slides[nextSlide]);
+  //console.log(slick.$prev, slick.$next);
+  slick.$prev.removeClass('slick-sprev');
+  slick.$next.removeClass('slick-snext');
+  next = cur.next(),
+    prev = cur.prev();
+  prev.prev();
+  prev.next();
+  prev.addClass('slick-sprev');
+  next.addClass('slick-snext');
+  slick.$prev = prev;
+  slick.$next = next;
+  cur.removeClass('slick-next').removeClass('slick-sprev');
+});
+
+rev.slick({
+  speed: 1000,
+  arrows: true,
+  dots: true,
+  focusOnSelect: true,
+  prevArrow: '<button> prev</button>',
+  nextArrow: '<button> next</button>',
   infinite: true,
-  speed: 1500,
+  centerMode: true,
+  slidesPerRow: 1,
   slidesToShow: 1,
   slidesToScroll: 1,
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        infinite: true,
-        dots: false
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    }
-    // You can unslick at a given breakpoint now by adding:
-    // settings: "unslick"
-    // instead of a settings object
-  ]
+  centerPadding: '0',
+  swipe: true,
+  customPaging: function(slider, i) {
+    return '';
+  },
+  /*infinite: false,*/
 });
-
 
 </script>
 
