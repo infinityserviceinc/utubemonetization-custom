@@ -21,4 +21,5 @@ if (isset($_SERVER['HTTPS'])) {
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" integrity="sha512-yHknP1/AwR+yx26cB1y0cjvQUMvEa2PFzt1c9LlS4pRQ5NOTZFWbhBig+X9G9eYW/8m0/4OXNx8pxJ6z57x0dw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
 	<link href="https://api.fontshare.com/v2/css?f[]=general-sans@701,200,500,300,600,400,700&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
 </head>
