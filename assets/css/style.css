@@ -1142,7 +1142,7 @@ section.cta_sec {
     color: #FFF;
     text-align: center;
     font-family: Red Hat Display;
-    font-size: 48px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 900;
     line-height: 120%; /* 57.6px */
@@ -1457,7 +1457,7 @@ button.accordion-button {
 }
 
 .cta_new {
-    padding-top: 80px !important;
+    padding-top: 60px !important;
 }
 
 button.accordion-button:before {
@@ -2096,3 +2096,14 @@ section.acodian_sec {
     
 }
 @media only screen and (max-width: 320px){}
+
+
+span {
+    color: #f40000;
+}
+
+.cta_iner p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+}

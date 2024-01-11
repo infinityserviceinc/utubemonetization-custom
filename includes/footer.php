@@ -3,8 +3,8 @@
         <div class="row mt-5">
             <div class="col-md-6">
                 <div class="footer_inner">
-                    <h2>About Us!</h2>
-                    <p>YTmatic was founded in the year 2022. We have successfully created thousands of Youtube Channels and thousand of people are working with us at the moment and earning a passive Income. We have a strong portfolio of branding Youtube channel and posting video content daily.</p>
+                    <h2>About us</h2>
+                    <p>At Ytmatic, we are passionate about empowering content creators and businesses to thrive in the dynamic world of YouTube. As pioneers in YouTube Automation Services, our mission is to redefine how you manage and grow your channel.</p>
                 </div>
             </div>
             <div class="col-md-3">

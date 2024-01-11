@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Home | Brand Name</title>
+<title>Uplift YouTube Presence with YouTube Automation Services.</title>
 <meta name="description" content="Homepage Description"/>
 <?php include_once("includes/head.php")?>
 
