@@ -323,7 +323,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="testimonial_inner">
-                    <h2>Client Views On Our  <span>YouTube Automation Compan</span></h2>
+                    <h2>Client Views On Our  <span>YouTube Automation Company</span></h2>
                     <p>These are some of the videos, We have created for our customer Youtube channels.</p>
                 </div>
             </div>
