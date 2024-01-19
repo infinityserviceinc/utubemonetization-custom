@@ -4,7 +4,7 @@
             <div class="col-md-6">
                 <div class="footer_inner">
                     <h2>About us</h2>
-                    <p>At Ytmatic, we are passionate about empowering content creators and businesses to thrive in the dynamic world of YouTube. As pioneers in YouTube Automation Services, our mission is to redefine how you manage and grow your channel.</p>
+                    <p>At Utubemonitization, we are passionate about empowering content creators and businesses to thrive in the dynamic world of YouTube. As pioneers in YouTube Automation Services, our mission is to redefine how you manage and grow your channel.</p>
                 </div>
             </div>
             <div class="col-md-3">
@@ -21,8 +21,8 @@
                 <div class="footer_links">
                     <h4>CONTACT INFORMATION</h4>
                     <ul>                       
-                        <li><a href="mailto::Support@ytmatic.com">Support@ytmatic.com</a></li>
-                        <li><a href="mailto::Sales@ytmatic.com">Sales@ytmatic.com</a></li>
+                        <li><a href="mailto::Support@Utubemonitization.com">Support@Utubemonitization.com</a></li>
+                        <li><a href="mailto::Sales@Utubemonitization.com">Sales@Utubemonitization.com</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,7 +30,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="bottom_footer">
-                    <p>© 2022 YTmatic All Rights Reserved.</p>                    
+                    <p>© 2022 Utubemonitization All Rights Reserved.</p>                    
                 </div>
             </div>
         </div>

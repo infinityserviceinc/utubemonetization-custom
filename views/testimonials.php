@@ -50,7 +50,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -63,7 +63,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -80,7 +80,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -93,7 +93,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -110,7 +110,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -123,7 +123,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>
                                     <div class="child_inner">
@@ -145,7 +145,7 @@
             <div class="col-md-12">
                 <div class="sucess_inner">
                     <h2>Success <span>Stories</span></h2>
-                    <p>We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.</p>
+                    <p>We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.</p>
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>                                    
                                 </div>
@@ -173,7 +173,7 @@
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Ytmatic.t helped our clients succeed with Ytmatic.</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
                                     </div>                                    
                                 </div>
