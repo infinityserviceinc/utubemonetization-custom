@@ -24,7 +24,7 @@
                                 <a class="nav-link" href="portfolio/">Portfolio</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="testimonials/">Testimonial</a>
+                                <a class="nav-link" href="testimonials/">Testimonials</a>
                             </li>                                                               
                             <li class="nav-item">
                                 <button type="button" class="btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">Book A Consultancy</button>

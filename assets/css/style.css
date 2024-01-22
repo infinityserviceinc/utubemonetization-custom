@@ -936,6 +936,7 @@ form {}
     background: #fff;
     box-shadow: 0px 4px 20px 0px #E6E6E6;
     padding: 30px 30px;
+    min-height: 340px;
 }
 
 .second_inner {
@@ -1131,8 +1132,7 @@ section.cta_sec {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 330px;
-    padding: 40px 0 0 0;
+    padding: 80px 0;
 }
 .cta_iner {
     text-align: center;
@@ -1485,13 +1485,13 @@ button.accordion-button:before {
 
 .modal-header {padding: 0 !important;border: none !important;margin-bottom: 20px;}
 .modal-body {padding: 0 !important; }
-.modal {background: #0000008c; }
+.modal {background: #000000e6;}
 .modal-dialog {position: absolute; left: 0; right: 0; margin: auto; }
 .popup_form_wrp {padding: 0 15px; / text-align: center; / }
-.popup_form_wrp h2 {font-weight: 800; font-size: 35px; color: #494949; margin: 0 0 10px 20px; position: relative; }
+.popup_form_wrp h2 {font-weight: 800;font-size: 33px;color: #494949;margin: 0 0 10px 20px;position: relative;}
 .modal-content {padding: 30px 0; }
 .popup_form_wrp p {color: #343434; font-weight: 500; }
-.popup_form_wrp form input, .popup_form_wrp form select, .popup_form_wrp form textarea {width: 100%;background: #fff;border-radius: 20px;height: 45px;margin: 0 0 15px 0;padding: 0 0 0 20px;font-family: 'Raleway';font-weight: 500;outline: none;color: rgba(0, 0, 0, 0.44);border: 1px solid #f40000;}
+.popup_form_wrp form input, .popup_form_wrp form select, .popup_form_wrp form textarea {width: 100%;background: #fff;border-radius: 20px;height: 45px;margin: 0 0 15px 0;padding: 0 0 0 20px;font-family: 'Raleway';font-weight: 500;outline: none;color: rgba(0, 0, 0, 0.44);border: 1px solid #f40000; color: #000; }
 .popup_form_wrp form {margin: 30px 0 0 0; }
 .popup_form_wrp form input::placeholder, .popup_form_wrp form textarea::placeholder {color: rgba(0, 0, 0, 0.44); font-size: 14px; }
 .popup_form_wrp form textarea {border-radius: 15px; height: 130px; padding: 15px 18px; }
@@ -1673,9 +1673,64 @@ section.sec_success.sucess_inner_page {
     padding: 80px 0;
 }
 
+span {
+    color: #f40000;
+}
+
+.cta_iner p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+}
+.card {
+    border: none !important;
+}
+
+
+section.portfolio_sec .portfolio_inner button.btn-dark:hover {
+    background: #000 !important;
+    color: #fff !important;
+}
+
+section.portfolio_sec .portfolio_inner button.btn-dark:hover img {
+    filter: unset;
+}
+
+.desc {
+    text-align: center;
+}
+
+.desc h2 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0 0 20px 0;
+}
+
+.desc p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 25px;
+    margin: 0;
+}
+
+.accordion-body {
+    box-shadow: 0 0 10px #c7c7c7;
+    padding: 20px 15px 7px 15px;
+    margin: 0 0 20px 0;
+    border-radius: 10px;
+}
+
 @media only screen and (max-width: 1366px){
     button.slick-next.slick-arrow {
         display: none !important;
+    }
+    .rev_slider_new button.slick-arrow:nth-child(3) {
+        right: 0;
+    }
+
+    button.slick-arrow {
+        left: 0;
     }
 }
 
@@ -1726,6 +1781,32 @@ section.sec_success.sucess_inner_page {
 
 }
 @media only screen and (max-width: 767px){
+
+    button.accordion-button {
+        font-size: 14px;
+        padding: 0 10px 0 20px;
+        height: 70px;
+    }
+    
+    button.accordion-button:before {
+        height: 70px;
+    }
+
+    .social_content p {
+        padding: 0 15px;
+    }
+    .img_box {
+        margin: 0 0 20px 0;
+    }
+
+    .modal-content {
+        padding: 10px 0;
+    }
+    
+    .popup_form_wrp h2 {
+        font-size: 30px;
+    }
+
 
     .inner_banner .banner_iner h1 {
         font-size: 40px;
@@ -2031,7 +2112,7 @@ section.sec_success {
 }
 
 .cta_iner h2 {
-    font-size: 26px;
+    font-size: 22px;
     width: 100%;
 }
 
@@ -2045,7 +2126,7 @@ section.cta_sec {
 }
 
 .social_inner h2 {
-    font-size: 30px;
+    font-size: 24px;
 }
 
 section.social_sec {
@@ -2071,7 +2152,7 @@ section.social_sec .row.mt-5 {
 }
 
 .portfolio_wrap ul li {
-    flex: 0 0 49.5%;
+    flex: 0 0 100%;
 }
 
 .testimonial_inner h2 {
@@ -2087,7 +2168,7 @@ button.accordion-button {
 }
 
 .accordion-button::after {
-    right: 0;
+    right: -10px;
 }
 
 section.acodian_sec {
@@ -2096,14 +2177,3 @@ section.acodian_sec {
     
 }
 @media only screen and (max-width: 320px){}
-
-
-span {
-    color: #f40000;
-}
-
-.cta_iner p {
-    color: #fff;
-    font-size: 18px;
-    line-height: 28px;
-}

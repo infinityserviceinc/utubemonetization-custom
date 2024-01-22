@@ -18,7 +18,7 @@
                 <div class="banner_iner">
                     <h1>customer <span>testimonials</span></h1>
                     <p>Discover how to earn an extra income of $50K-100K+/month. You can’t do all this by yourself and this is where we come in. Our highly qualified team creates viral YouTube videos for your channel so you can earn thousands of dollars by doing nothing really.</p>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
             <!-- <div class="col-md-6">
@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="sucess_inner">
-                    <h2>How Can We Help You MakePassive <br><span>Income Through Youtube!</span></h2>
+                    <h2>How Can We Help You MAKE PASSIVE <br><span>Income Through Youtube!</span></h2>
                     <p>We create video content from start to finish – including high-quality informative or exotic videos, then we, upload them on youtube on your behalf.</p>
                 </div>
             </div>
@@ -193,7 +193,7 @@
                 <div class="cta_iner">
                     <h2>If We Fail To Grow Your Youtube Channel</h2>
                     <h5>We Will Buy It Back From You!</h5>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
@@ -294,7 +294,7 @@
             <div class="col-md-12">
                 <div class="cta_iner">
                     <h2>Want to grow your YouTube <BR>channel faster?</h2>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>

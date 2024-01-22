@@ -18,7 +18,7 @@
                 <div class="banner_iner">
                     <h1><span>Premium</span> YouTube Automation Services</h1>
                     <p>UtubeMonitization is your premier and exceptional YouTube automation partner. In the changing world of online content, the key to success on YouTube goes far behind for creating only videos. Our Renowned and Reputable YouTube Automation Services are designed to reform your online presence, enabling you to seamlessly reach and engage with your target audience</p>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -221,7 +221,7 @@
             <div class="col-md-12">
                 <div class="cta_iner">
                     <h2>We are a reliable and specialized agency. If your <span>YouTube Automation Project</span> does not meet your satisfaction, we offer a money-back guarantee.</h2>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
@@ -300,18 +300,54 @@
                     <p>Is YouTube automation legit? Check out our portfolio and call our support for your answer.</p>
                 </div>
                 <div class="portfolio_wrap">
-                    <ul>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
-                        <li><img src="assets/images/portfolio.png" alt=""></li>
+                    <ul class="card-deck">
+                        <li>                        
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
+                        <li>
+                            <div class="card">
+                                <a data-fancybox href="https://youtu.be/z6qVIIy0D5Y?si=kIP-aJ1wyHRvnrvi">
+                                    <img class="card-img-top img-fluid" src="assets/images/portfolio.png" />
+                                </a>                               
+                            </div>
+                        </li>
                     </ul>
                 </div>
                 <div class="portfolio_inner text-center">
                     <p>Loved our portfolio? Wanna have a business where you can make passive income without doing any<br> work in a day? If Yes then.</p>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
@@ -421,7 +457,7 @@
                 <div class="cta_iner">
                     <h2>YouTube Partner Program</h2>
                     <p>The YouTube Partner Program (YPP) allows eligible creators to monetize their videos through ads, memberships, and Super Chat. With requirements like 1,000 subscribers and 4,000 watch hours, YYP provides revenue opportunities, access to exclusive features, and a pathway for content creators to turn their passion into a source of income.</p>
-                    <button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button>
+                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
