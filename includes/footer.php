@@ -11,9 +11,9 @@
                 <div class="footer_links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Refund policy</a></li>
-                        <li><a href="#">Terms and Services</a></li>                       
+                        <li><a href="privacy-policy/">Privacy Policy</a></li>
+                        <li><a href="refund-policy/">Refund policy</a></li>
+                        <li><a href="terms&services/">Terms and Services</a></li>                       
                     </ul>
                 </div>
             </div>
@@ -21,8 +21,8 @@
                 <div class="footer_links">
                     <h4>CONTACT Us</h4>
                     <ul>                       
-                        <li><a href="mailto::Support@Utubemonitization.com">Support@Utubemonitization.com</a></li>
-                        <li><a href="mailto::Sales@Utubemonitization.com">Sales@Utubemonitization.com</a></li>
+                        <li><a href="mailto::Support@utubemonitization.com">Support@utubemonitization.com</a></li>
+                        <li><a href="mailto::Sales@utubemonitization.com">Sales@utubemonitization.com</a></li>
                     </ul>
                 </div>
             </div>

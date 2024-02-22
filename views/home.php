@@ -384,21 +384,21 @@
                 <div class="rev_slider_new">
                     <div class="rev_slide">
                         <div class="test">
-                            <img src="assets/images/say.png" alt="">
+                            <img src="assets/images/un.png" alt="">
                             <h3>ContentCreator123</h3>                            
                             <p>Utubemonitization has completely transformed the way I manage my YouTube channel. The automation tools provided have made scheduling and uploading videos a breeze, allowing me to maintain a consistent posting schedule effortlessly. </p>
                         </div>
                     </div>
                     <div class="rev_slide">
                         <div class="test">
-                            <img src="assets/images/say.png" alt="">
+                            <img src="assets/images/12.png" alt="">
                             <h3>TechEnthusiast87</h3>                            
                             <p> Utubemonitization's YouTube Automation Services have exceeded my expectations. The strategic content planning and analytics insights provided have allowed me to tailor my tech tutorials to a more targeted audience. The automation tools not only save me time but also help me adapt quickly to YouTube algorithm changes. The cross-platform integration has significantly amplified my reach, and I've seen a noticeable increase in viewership and engagement. Utubemonitization has become an indispensable partner for my channel's success.</p>
                         </div>
                     </div>
                     <div class="rev_slide">
                         <div class="test">
-                            <img src="assets/images/say.png" alt="">
+                            <img src="assets/images/h.png" alt="">
                             <h3>Lifestyle Explorer</h3>                            
                             <p>As a lifestyle vlogger, finding the balance between quality content and a consistent posting schedule was challenging. Utubemonitization's automation solutions have been a game-changer for me. The time efficiency gained from automating repetitive tasks has allowed me to focus more on creating engaging and high-quality videos. The adaptability to algorithm changes ensures that my content stays relevant, and the results speak for themselves – increased subscribers, positive viewer feedback, and a more streamlined channel management process. Utubemonitization has truly elevated my YouTube presence.</p>
                         </div>
