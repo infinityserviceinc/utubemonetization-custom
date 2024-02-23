@@ -1406,7 +1406,7 @@ section.testimonial_sec {
     color: #FFF;
     text-align: center;
     font-family: Red Hat Display;
-    font-size: 16px;
+    font-size: 13px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
@@ -1604,14 +1604,14 @@ button.popup_button:hover {background: #f3ad16; }
   
   .test {
     display: block;
-    width: 60%;
+    width: 40%;
     border-radius: 20px;
     background: #F40000;
     text-align: center;
-    padding: 50px 30px 0 30px;
+    padding: 13px 38px 0 30px;
     margin: auto;
-    min-height: 350px !important;
-  }
+    min-height: 321px !important;
+}
 
   .test img {
     display: block;
@@ -2159,7 +2159,9 @@ section.cta_sec {
 section.social_sec {
     padding: 40px 0;
 }
-
+.slick-track {
+    height: 467px;
+}
 .social_inner img {
     width: 100%;
     margin: 0 0 30px 0;
