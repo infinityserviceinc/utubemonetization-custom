@@ -18,33 +18,39 @@
             <div clas="col-md-6">
             <div class="privacy_inner">
           <h1>Privacy Policy </h1>
-          <p>At UTubemonetization, we strive to offer quality services related to YouTube monetization. However, we understand that there may be exceptional circumstances where a refund is sought. This policy outlines the conditions under which refunds may be granted.</p>
+          <p>Welcome to UTubemonetization. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you how we handle your personal data when you visit our website and tell you about your privacy rights and how the law protects you.</p>
           <h1>Important Information and Who We Are </h1>
           <p>UTubemonetization is a platform dedicated to providing guidance and services related to monetizing content on YouTube. This policy applies to information we collect on our website and in email, text, or other electronic messages between you and our website</p>
           <h1>Data We Collect About You</h1>
           <p>We may collect, use, store, and transfer different kinds of personal data about you, which we have grouped together as follows</p><br><r>
-          <p>•	Identity Data: includes first name last name.<br><br>
-             •	Contact Data: includes email address.<br><br>
-             •	Technical Data: includes internet protocol (IP) address, your login data, browser type and version, time zone setting, and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this website.<br><br>
-             •	Usage Data: includes information about how you use our website and services.<br><br>
-             •	Marketing and Communications Data: includes your preferences in receiving marketing from us and our third parties and your communication preferences.<br><br>
-
+         <ul>
+          <li><span>Identity Data :</span><p>Includes first name last name.</p></li>
+          <li><span>Contact Data: </span><p>Includes email address.</p></li>
+          <li><span>Technical Data: </span><p>Includes internet protocol (IP) address, your login data, browser type and version, time zone setting, and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this website.</p></li>
+          <li><span>Usage Data: </span><p>Includes information about how you use our website and services.</p></li>
+          <li><span>Marketing and Communications Data: </span><p>Includes your preferences in receiving marketing from us and our third parties and your communication preferences.</p></li>
+         </ul>
              <h1>How Is Your Personal Data Collected?</h1>
             </p>
           <p>We use different methods to collect data from and about you, including through:</p>
-          <P>•	Direct interactions: You may give us your Identity, Contact, and Breif Description About Your Project by filling in forms or by corresponding with us by post, phone, email, or website.<br><br>
-             •	Automated technologies or interactions: As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions, and patterns. We collect this personal data by using cookies, server logs, and other similar technologies.
-</p>
+          <ul>
+            <li><span>Direct interactions: </span><p>You may give us your Identity, Contact, and Breif Description About Your Project by filling in forms or by corresponding with us by post, phone, email, or website.</p></li>
+            <li><span>Automated technologies or interactions:</span><p>As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions, and patterns. We collect this personal data by using cookies, server logs, and other similar technologies.</p></li>
+          </ul>
+          <h1>How We Use Your Personal Data</h1>
           <p>We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances: </P>
-          <p> •	To register you as a new customer.<br><br>
-              •	To manage our relationship with you.<br><br>
-              •	To administer and protect our business and this website.<br><br>
-              •	To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you.<br><br>
-              •	To use data analytics to improve our website, products/services, marketing, customer relationships, and experiences.
-</p>
+          <p>To register you as a new customer.</p>
+             <p>To manage our relationship with you.</p>
+             <p>To administer and protect our business and this website.</p>
+             <p>To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you.</p>
+             <p>To use data analytics to improve our website, products/services, marketing, customer relationships, and experiences.</p>
+
           <h1>Disclosures of Your Personal Data</h1>
           <P>We may share your personal data with external third parties, including:</P>
-          <p>Service providers who provide IT and system administration services. Professional advisers, including lawyers, bankers, auditors, and insurers. Third parties to whom we sell, transfer or merge parts of our business or our assets. </p>
+          <p>Service providers who provide IT and system administration services.</p>
+          <p>Professional advisers, including lawyers, bankers, auditors, and insurers.</p>
+          <p>Third parties to whom we sell, transfer or merge parts of our business or our assets.</p>
+
           <h1>International Transfers</h1>
           <p>We share your personal data within our group of companies, which involves transferring your data outside the European Economic Area (EEA). We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data.</p>
           <h1>Data Security</h1>
@@ -59,8 +65,8 @@
           <p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.</p>
           <h1>Contact Us</h1>
           <p>If you have any questions about this privacy policy or our privacy practices, please contact us in the following ways:</p>
-          <p>Email address: Sales@Utubemonitization.com <br>
-            <br> Postal address: abcabc <br>
+            <p>Email address: sales@utubemonitization.com <br>
+            <br> Postal address: Address here <br>
             <br> Contact Number: 101010101
           </p>
           </div>
