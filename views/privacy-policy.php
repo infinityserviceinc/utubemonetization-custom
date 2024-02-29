@@ -67,7 +67,7 @@
           <p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.</p>
           <h6 style="color: white; font-size: 35px;">Contact Us</h6>
           <p>If you have any questions about this privacy policy or our privacy practices, please contact us in the following ways:</p>
-            <p>Email address: sales@utubemonitization.com <br>
+            <p>Email address: sales@utubemonetization.com <br>
             <br> Postal address: Address here <br>
             <br> Contact Number: 101010101
           </p>

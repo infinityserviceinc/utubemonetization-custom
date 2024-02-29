@@ -21,7 +21,7 @@
           </p>
           
           <h6 style="color: white; font-size: 35px;">Process for Requesting a Refund </h6>
-          <p>To request a refund, clients must contact UTubemonetization at <a href="mailto: sales@utubemonitization.com;"></a>sales@utubemonitization.com with their order details and a comprehensive reason for the request. Each case will be reviewed by our team, and decisions on refunds will be made at our discretion.</p>
+          <p>To request a refund, clients must contact UTubemonetization at <a href="mailto: sales@utubemonetization.com;"></a>sales@utubemonetization.com with their order details and a comprehensive reason for the request. Each case will be reviewed by our team, and decisions on refunds will be made at our discretion.</p>
           
           <h6 style="color: white; font-size: 35px;">Refund Method </h6>
           <p>Approved refunds will be processed to the original payment method used at the time of purchase within  business days. </P>

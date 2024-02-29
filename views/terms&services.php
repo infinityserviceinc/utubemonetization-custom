@@ -42,7 +42,7 @@
                    
          
          <h6 style="color: white; font-size: 35px;">Contact Us</h6>
-         <p>If you have any questions about these Terms and Conditions, don't hesitate to get in touch with us at <a href="mailto: sales@utubemonitization.com;"style="color: red;"></a>sales@utubemonitization.com.</p>
+         <p>If you have any questions about these Terms and Conditions, don't hesitate to get in touch with us at <a href="mailto: sales@utubemonetization.com;"style="color: red;"></a>sales@utubemonetization.com.</p>
 
 
 
