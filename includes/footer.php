@@ -21,8 +21,8 @@
                 <div class="footer_links">
                     <h4>CONTACT Us</h4>
                     <ul>                       
-                        <li><a href="mailto::Support@utubemonitization.com">Support@utubemonitization.com</a></li>
-                        <li><a href="mailto::Sales@utubemonitization.com">Sales@utubemonitization.com</a></li>
+                        <li><a href="mailto::support@utubemonitization.com">support@utubemonitization.com</a></li>
+                        <li><a href="mailto::sales@utubemonitization.com">sales@utubemonitization.com</a></li>
                     </ul>
                 </div>
             </div>
