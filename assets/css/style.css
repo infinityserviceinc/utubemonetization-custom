@@ -1014,6 +1014,7 @@ form {}
 
 section.sec_success {
     padding: 0 0 80px 0;
+    background-color: #f6f2f2a0;
 }
 
 .sucess_inner {
@@ -1374,7 +1375,6 @@ section.testimonial_sec {
     border-radius: 20px;
     background: #F40000;
     text-align: center;
-    padding: 30px 20px;
     margin: 0 10px;
 }
 
@@ -1406,9 +1406,18 @@ section.testimonial_sec {
     color: #FFF;
     text-align: center;
     font-family: Red Hat Display;
-    font-size: 13px;
+    font-size: 12px;
     font-style: normal;
     font-weight: 500;
+    line-height: normal;
+}
+.item_wrap h3 {
+    color: #FFF;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
     line-height: normal;
 }
 
@@ -2128,6 +2137,7 @@ div#navbarNav ul li {
 
 section.sec_success {
     padding: 40px 0;
+    
 }
 
 .sucess_inner h2 {
