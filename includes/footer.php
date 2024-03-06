@@ -84,7 +84,35 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<!-- Start of teamsupport14 Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3e4b23b8-591c-4287-9c6e-252216bd7a81"> </script>
+<!-- End of teamsupport14 Zendesk Widget script -->
+<script type="text/javascript">
+    zE(function() {
+    zE.activate();
+    });
+</script>
+<script>
+    zE(function() {
+        $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+            if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+                $zopim.livechat.window.show();
+            }
+        })
+    });
 
+    function setButtonURL() {
+
+        $zopim.livechat.window.show();
+
+    }
+
+    function toggleChat() {
+
+        $zopim.livechat.window.show();
+
+    }
+</script>
 <script>
 
 //  Set caption from card text

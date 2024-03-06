@@ -18,7 +18,7 @@
                 <div class="banner_iner">
                     <h1><span>Premium</span> YouTube Automation Services</h1>
                     <p>UtubeMonitization is your premier and exceptional YouTube automation partner. In the changing world of online content, the key to success on YouTube goes far behind for creating only videos. Our Renowned and Reputable YouTube Automation Services are designed to reform your online presence, enabling you to seamlessly reach and engage with your target audience</p>
-                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
+                    <a href="tel:+1 646-814-3879"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -237,7 +237,7 @@
             <div class="col-md-12">
                 <div class="cta_iner">
                     <h2>We are a reliable and specialized agency. If your <span>YouTube Automation Project</span> does not meet your satisfaction, we offer a money-back guarantee.</h2>
-                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
+                    <a href="tel:+1 646-814-3879"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
@@ -363,7 +363,7 @@
                 </div>
                 <div class="portfolio_inner text-center">
                     <p>Loved our portfolio? Wanna have a business where you can make passive income without doing any<br> work in a day? If Yes then.</p>
-                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
+                    <a href="tel:+1 646-814-3879"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
@@ -450,7 +450,7 @@
                 <div class="cta_iner">
                     <h2>YouTube Partner Program</h2>
                     <p>The YouTube Partner Program (YPP) allows eligible creators to monetize their videos through ads, memberships, and Super Chat. With requirements like 1,000 subscribers and 4,000 watch hours, YYP provides revenue opportunities, access to exclusive features, and a pathway for content creators to turn their passion into a source of income.</p>
-                    <a href="tel:"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
+                    <a href="tel:+1 646-814-3879"><button class="btn-dark" type="button">Book Free Call Now <img src="assets/images/buton.png" alt=""></button></a>
                 </div>
             </div>
         </div>
