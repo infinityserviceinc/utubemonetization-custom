@@ -375,7 +375,7 @@ text-transform: lowercase;
     
 margin: 0;
     
-width: 96.1%;
+width: 99.6%;
     
 margin: auto;
 }
@@ -1079,8 +1079,9 @@ img.profile {
 .slider_content .child_inner:nth-child(1) {
     flex: 0 0 55%;
     text-align: center;
-    background: #fffffff3;
+    background: #fffffff7;
     padding: 30px 0;
+    height: 42vh;
 }
 
 .slider_content .child_inner:nth-child(2) {
@@ -1095,7 +1096,14 @@ img.profile {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding: 0 20px;
+    padding: 12px 20px;
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    position: relative;
+    bottom: 20px;
+   
+  
 }
 
 .slider_content .child_inner img {
@@ -1823,6 +1831,18 @@ section.portfolio_sec .portfolio_inner button.btn-dark:hover img {
         padding: 0 10px 0 20px;
         height: 70px;
     }
+    .slider_content .child_inner p {
+        color: #191919;
+        text-align: center;
+        font-family: Red Hat Display;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding: 12px 20px;
+      
+        
+    }
     
     button.accordion-button:before {
         height: 70px;
@@ -2215,7 +2235,20 @@ section.acodian_sec {
 }
     
 }
-@media only screen and (max-width: 320px){}
+@media only screen and (max-width: 320px){
+    .slider_content .child_inner p {
+        color: #191919;
+        text-align: center;
+        font-family: Red Hat Display;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        padding: 12px 20px;
+      
+        
+    }
+}
 
 
 

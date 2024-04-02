@@ -94,7 +94,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="sucess_inner">
-                    <h2>Success Stories: Transforming <span>YouTube Automated Channels</span> with Utubemonitization</h2>
+                    <h2>Success Stories Transforming <span>YouTube Automated Channels</span> with Utubemonitization</h2>
                     <p>We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.</p>
                 </div>
             </div>
@@ -181,36 +181,34 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="success_inner success_slider">
-                    <div class="item">
+                <div class="item">
                         <ul>
                             <li>
                                 <h2>$4,511 in just 23 days!</h2>
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>"Utubemonitization is a game-changer! The YouTube Automation Plan boosted my subscribers from 2,000 to an incredible 10,000. The personalized approach and cutting-edge tools made a huge difference. Utubemonitization is not just a service; they're your strategic partner for exponential growth!"</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
-                                    </div>
-                                    <div class="child_inner">
-                                        <img class="profile" src="assets/images/slider_img.png" alt="">
-                                    </div>
+                                    </div>                                    
                                 </div>
-                            </li>
+                            </li>                                                      
+                        </ul>
+                    </div>        
+                            <div class="item">
+                        <ul>
                             <li>
                                 <h2>$4,511 in just 23 days!</h2>
                                 <div class="slider_content">
                                     <div class="child_inner">
                                         <img class="profile" src="assets/images/info_slider.png" alt="">
-                                        <p>"Utubemonitization transformed my channel! Monthly ad revenue skyrocketed from $200 to $1,500. Their automation tools are a game-changer. Utubemonitization isn't just a service; they're an investment in your success. Highly recommend for any content creator serious about growth!"</p>
+                                        <p>We don’t only have screenshots from dashboards but we have stories thaWe don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.We don’t only have screenshots from dashboards but we have stories that helped our clients succeed with Utubemonitization.t helped our clients succeed with Utubemonitization.</p>
                                         <img class="profile" src="assets/images/slider.png" alt="">
-                                    </div>
-                                    <div class="child_inner">
-                                        <img class="profile" src="assets/images/slider_img.png" alt="">
-                                    </div>
+                                    </div>                                    
                                 </div>
-                            </li>                           
+                            </li>                                                      
                         </ul>
-                    </div> 
+                    </div>        
                     <div class="item">
                         <ul>
                             <li>
