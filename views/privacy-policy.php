@@ -54,7 +54,7 @@
           <p>Third parties to whom we sell, transfer or merge parts of our business or our assets.</p>
 
           <h6 style="color: white; font-size: 35px;">International Transfers</h6>
-          <p>We share your personal data within our group of companies, which involves transferring your data outside the European Economic Area (EEA). We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data.</p>
+          <p>We share your personal data with inour group of companies, which involves transferring your data outside the European Economic Area (EEA). We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data.</p>
           <h1>Data Security</h1>
           <p>We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used, or accessed in an unauthorized way, altered, or disclosed</p>
           <h6 style="color: white; font-size: 35px;">Data Retention</h6>

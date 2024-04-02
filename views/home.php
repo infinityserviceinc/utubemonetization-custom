@@ -558,7 +558,7 @@
                             <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                             <p>Utubemonitization places paramount importance on compliance and security, employing stringent measures to safeguard your channel and data. We implement robust data encryption protocols, ensuring that your information remains confidential and protected against unauthorized access. Our secure authentication processes add an extra layer of defense, guaranteeing that only authorized individuals have access to sensitive data.</p>
-                            <p>Adherence to YouTube's policies is a cornerstone of our commitment, ensuring that your channel operates within the platform's guidelines. Regular audits and updates are conducted to fortify our security infrastructure, providing you with a consistently secure environment for effective and worry-free channel management.</p>
+                            <p>Adherence to YouTube's policies is a cornerstone of our commitment, ensuring that your channel operates with inthe platform's guidelines. Regular audits and updates are conducted to fortify our security infrastructure, providing you with a consistently secure environment for effective and worry-free channel management.</p>
                             </div>
                             </div>
                         </div>
