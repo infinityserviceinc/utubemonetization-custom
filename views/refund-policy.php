@@ -16,7 +16,7 @@
     
           <h6 style="color: white; font-size: 35px;">Eligibility for Refund</h6>
           <p><span>1.	Service Issues:</span> Refunds may be considered if the service provided did not meet the specifications as outlined at the time of purchase. Clients must provide a detailed explanation of the discrepancy and evidence that the service was not as promised.</p>
-          <p><span>2.	Time Frame:</span> Requests for refunds must be made with in 15 daysof the original purchase date.</p>
+          <p><span>2.	Time Frame:</span> Requests for refunds must be made with in 15 days of the original purchase date.</p>
           <p><span>3.	Non-Refundable Services:</span>  Certain services, such as personalized consultations, may be non-refundable as stated at the time of purchase</p>
           </p>
           
