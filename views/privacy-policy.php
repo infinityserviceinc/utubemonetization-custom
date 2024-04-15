@@ -54,7 +54,7 @@
           <p>Third parties to whom we sell, transfer or merge parts of our business or our assets.</p>
 
           <h6 style="color: white; font-size: 35px;">International Transfers</h6>
-          <p>We share your personal data with inour group of companies, which involves transferring your data outside the European Economic Area (EEA). We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data.</p>
+          <p>We share your personal data with in 15 Days our group of companies, which involves transferring your data outside the European Economic Area (EEA). We ensure your personal data is protected by requiring all our group companies to follow the same rules when processing your personal data.</p>
           <h1>Data Security</h1>
           <p>We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used, or accessed in an unauthorized way, altered, or disclosed</p>
           <h6 style="color: white; font-size: 35px;">Data Retention</h6>
@@ -67,7 +67,7 @@
           <p>We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.</p>
           <h6 style="color: white; font-size: 35px;">Contact Us</h6>
           <p>If you have any questions about this privacy policy or our privacy practices, please contact us in the following ways:</p>
-            <p>Email address: sales@utubemonetization.com <br>
+            <p>Email address: Sales@Utubemonitization.com<br>
             <br> Postal address: Address here <br>
             <br> Contact Number: 101010101
           </p>
